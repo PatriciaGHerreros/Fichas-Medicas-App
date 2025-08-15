@@ -1,4 +1,6 @@
-﻿# Fichas-Medicas-App
+![Fichas Médicas](./fichasmedicas.png)
+
+ # Fichas-Medicas-App
 Aplicación web desarrollada como parte de un webinar formativo sobre Bootstrap y desarrollo con Python y Flask.
 
 ## Funcionalidades
@@ -19,3 +21,4 @@ Aplicación web desarrollada como parte de un webinar formativo sobre Bootstrap 
 
 ## Repositorio
 🔗 [GitHub – Fichas-Medicas-App](https://github.com/PatriciaGHerreros/Fichas-Medicas-App)
+
